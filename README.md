@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Juan González @JohnnyBravo02; 21 years old Mexican/Portuguese Mechatronics Engineering Student
+- 👀 I’m interested in Artificial Intelligence Research, Computer Science, Entrepreneurship, Innovation & Music Composition
+- 🌱 I’m currently learning Industrial Automation, Deep Neural Networks Design, Control Systems, and Music Theory
+- 💞️ I’m looking to collaborate on AI Research
+- 📫 How to reach me: juangonzalez.trabajo@outlook.com
