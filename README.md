@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Industrial Automation, Deep Neural Networks Design, Control Systems Engineering, and Music Theory
 - 💞️ I’m looking to collaborate on AI Research
 - 📫 How to reach me: juangonzalez.trabajo@outlook.com or https://www.linkedin.com/in/juangonzalezmorales/
+- 🌐Personal Portfolio: https://johnnybravo02.github.io/PersonalPortfolio/
 
 **But, who am I?**
 
